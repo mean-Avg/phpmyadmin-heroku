@@ -34,8 +34,8 @@
             ],
             "authors": [
                 {
-                    "name": "David Zuelke",
-                    "email": "dz@heroku.com"
+                    "name": "Aditya",
+                    "email": "1994.avg@gmail.com"
                 }
             ],
             "description": "Toolkit for starting a PHP application locally, with or without foreman, using the same config for PHP/HHVM and Apache2/Nginx as on Heroku",
